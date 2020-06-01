@@ -1,4 +1,6 @@
 # Use the following data for this assignment:
+# Add this line bellow if used in a Jupyter Notebook: 
+# %matplotlib notebook
 import matplotlib.pyplot as plt
 from scipy import stats as sts
 import pandas as pd
